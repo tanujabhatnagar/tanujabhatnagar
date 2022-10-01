@@ -1,4 +1,5 @@
-### <b><i>Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />  I'm [Tanuja](https://tanujabhatnagar.github.io/portfolio/)</i></b>
+<img src="Web Developer.png" width="1000px">
+### <b><i>Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />  I'm <a href="https://tanujabhatnagar.github.io/portfolio/">Tanuja</a></i></b>
 
 😄 Pronouns: She/Her </br>
 🔭 I’m currently working on [Helpdesk Web Application](https://helpdesk.newgensoft.com/webdesktop/custom/customportal/login.jsp)  </br>
