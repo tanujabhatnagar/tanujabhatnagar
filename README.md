@@ -4,7 +4,7 @@
 😄 Pronouns: She/Her </br>
 🔭 I’m currently working on [Helpdesk Web Application](https://helpdesk.newgensoft.com/webdesktop/custom/customportal/login.jsp)  </br>
 🌱 I’m currently learning React.js</br>
-👯 I’m looking to collaborate on Web Development Projects</br>
+👯 I’m looking to collaborate on any Project or Blog</br>
 📫 How to reach me: Check my social links below</br>
 
 
