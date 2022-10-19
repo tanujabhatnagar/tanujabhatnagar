@@ -1,5 +1,5 @@
 <img src="Web Developer.png" width="1000px">
-<h3><b><i>Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />  I'm <a href="https://tanujabhatnagar.github.io/portfolio/">Tanuja</a></i></b><h3>
+<h3><b><i>Hi there :wave:   I'm <a href="https://tanujabhatnagar.github.io/portfolio/">Tanuja</a></i></b><h3>
 
 😄 Pronouns: She/Her </br>
 🔭 I’m currently working on [Helpdesk Web Application](https://helpdesk.newgensoft.com/webdesktop/custom/customportal/login.jsp)  </br>
@@ -7,7 +7,11 @@
 👯 I’m looking to collaborate on any Project or Blog</br>
 📫 How to reach me: Check my social links below</br>
 
+### My contributions :point_down:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tanujabhatnagar)](https://git.io/streak-stats)
+
+### Coding languages I use most often :point_down:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### <b>🌐 <i> Social Links<b><i>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tanujabhatnagar_/)
