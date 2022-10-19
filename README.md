@@ -7,6 +7,7 @@
 👯 I’m looking to collaborate on any Project or Blog</br>
 📫 How to reach me: Check my social links below</br>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tanujabhatnagar)](https://git.io/streak-stats)
 
 ### <b>🌐 <i> Social Links<b><i>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tanujabhatnagar_/)
