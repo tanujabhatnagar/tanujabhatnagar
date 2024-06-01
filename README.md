@@ -3,9 +3,9 @@
 
 😄 Pronouns: She/Her </br>
 🔭 I’m currently working on [Helpdesk Web Application](https://helpdesk.newgensoft.com/webdesktop/custom/customportal/login.jsp)  </br>
-🌱 I’m currently learning React.js</br>
-👯 I’m looking to collaborate on any Project or Blog</br>
-📫 How to reach me: Check my social links below</br>
+🌱 I’m currently learning Spring boot </br>
+👯 I’m looking to collaborate on any Project </br>
+📫 How to reach me: Check my social links below </br>
 
 ### My contributions :point_down:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tanujabhatnagar)](https://git.io/streak-stats)
