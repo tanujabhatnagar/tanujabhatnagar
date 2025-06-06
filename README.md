@@ -3,8 +3,8 @@
 
 😄 Pronouns: She/Her </br>
 🔭 I’m currently working with [Newgen Software](https://newgensoft.com/)  </br>
-🌱 I’m currently learning Spring boot </br>
-👯 I’m looking to collaborate on any Project </br>
+🌱 I’m currently learning Google Cloud </br>
+👯 I’m looking to collaborate on any Project and open to join meetups & community events. </br>
 📫 How to reach me: Check my social links below </br>
 
 ### My contributions :point_down:
