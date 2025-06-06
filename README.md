@@ -2,7 +2,7 @@
 <h3><b><i>Hi there :wave:   I'm <a href="https://tanujabhatnagar.github.io/portfolio/">Tanuja</a></i></b><h3>
 
 😄 Pronouns: She/Her </br>
-🔭 I’m currently working on [Helpdesk Web Application](https://helpdesk.newgensoft.com/webdesktop/custom/customportal/login.jsp)  </br>
+🔭 I’m currently working with (https://newgensoft.com/)  </br>
 🌱 I’m currently learning Spring boot </br>
 👯 I’m looking to collaborate on any Project </br>
 📫 How to reach me: Check my social links below </br>
